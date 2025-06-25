@@ -8,6 +8,7 @@ This project demonstrates the use of two core **Design Patterns** in Java:
 
 It also follows **SOLID principles** and **clean code** practices for better scalability and maintainability.
 
+ use UML, flowchart and  pseudocode 
 ---
 
 ## ✅ Design Patterns
